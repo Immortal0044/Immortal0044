@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Undergrad | Pre-Final Year in Progress<br>Driven by curiosity and a deep interest in how tech shapes the world. Exploring cloud computing, DevOps workflows, and scalable system design. Actively building in the full-stack space while sharpening problem-solving through DSA and real-world projects. Passionate about the process—from architecture to deployment—and always looking to understand the “why” behind the “how.” I enjoy diving into new tools, trends, and technologies that push boundaries. Off-screen, football keeps me grounded with its rhythm and energy.<br>Still growing, still building—on a path shaped by code, curiosity, and consistency.
+Computer Science Undergrad | Final Year in Progress<br>Driven by curiosity and a deep interest in how tech shapes the world. Exploring cloud computing, DevOps workflows, and scalable system design. Actively building in the full-stack space while sharpening problem-solving through DSA and real-world projects. Passionate about the process—from architecture to deployment—and always looking to understand the “why” behind the “how.” I enjoy diving into new tools, trends, and technologies that push boundaries. Off-screen, football keeps me grounded with its rhythm and energy.<br>Still growing, still building—on a path shaped by code, curiosity, and consistency.
 
 
 ## 🌐 Socials:
